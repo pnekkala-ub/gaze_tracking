@@ -1,0 +1,4 @@
+./dlib-19.22.99-cp310-cp310-win_amd64.whl
+opencv-contrib-python==4.6.0.66
+ultralytics==8.0.73
+matplotlib==3.7.1
